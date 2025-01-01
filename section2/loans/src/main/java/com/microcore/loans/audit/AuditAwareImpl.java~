@@ -1,0 +1,4 @@
+package com.microcore.loans.audit;
+
+public class AuditAwareImpl {
+}

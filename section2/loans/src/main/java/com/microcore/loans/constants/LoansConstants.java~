@@ -1,0 +1,4 @@
+package com.microcore.loans.constants;
+
+public class LoansConstants {
+}

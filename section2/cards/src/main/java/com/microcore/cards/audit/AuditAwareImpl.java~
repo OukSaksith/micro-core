@@ -1,0 +1,4 @@
+package com.microcore.cards.audit;
+
+public class AuditAwareImpl {
+}
