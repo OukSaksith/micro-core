@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to MicroCore accounts related local APIs"
+  contactDetails:
+    name: "Ouk Saksith - Developer"
+    email: "ouksaksith11@gmail.com"
+  onCallSupport:
+    - "(855) xxx xxx xxx"
+    - "(855) xxxx xxx xxx"
